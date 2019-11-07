@@ -3,7 +3,8 @@ CREATE TABLE characters
     name TEXT,
     motto TEXT,
     species TEXT,
-    author_id INTEGER);
+    author_id INTEGER,
+    series_id INTEGER);
     
 CREATE TABLE books
     (id INTEGER PRIMARY KEY,
