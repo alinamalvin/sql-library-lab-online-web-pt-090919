@@ -1,1 +1,1 @@
-UPDATE [character_] SET [column name] = [new value] WHERE [column name] = [value];
+UPDATE [character] SET [species] = [new value] WHERE [column name] = [value];
