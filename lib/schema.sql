@@ -1,6 +1,6 @@
 CREATE TABLE characters
     (id INTEGER PRIMARY KEY,
-    name TEXT
+    name TEXT,
     motto TEXT,
     species TEXT,
     author_id INTEGER);
